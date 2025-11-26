@@ -16,7 +16,8 @@ Este projeto é uma análise exploratória de dados utilizando o dataset de anim
 3. Análise Exploratória
    * Exploração de variáveis: notas, popularidade, membros, número de pessoas que deram nota, número de episódios, demografia, temas, gêneros e estúdios
    * Criação de gráficos de distribuição, os mais populares, coocorrência de gêneros e outros.
-   * Visualização de histogramas, boxplots, countplots e gráfico de barras.
+   * Criação de matriz de correlação e coeficiente de pearson.
+   * Visualização de histogramas, boxplots, countplots, gráfico de barras, gráfico de linha e heatmap
    * Insights sobre padrões.
 
 ## Dataset
@@ -27,5 +28,6 @@ Este projeto é uma análise exploratória de dados utilizando o dataset de anim
 ![Distribuição da Quantidade de Animes Produzidas por Estúdio](graphs/Distribuição_da_Quantidade_de_Animes_Produzidas_por_Estúdio.png)
 ![Percentis de Notas](graphs/Percentis_de_Notas.png)
 ![Distribuição das Notas por Faixa_de_votantes](graphs/Distribuição_detalhada_das_notas_por_faixa_de_votantes.png)
+![Variação Percentual de Animes por Ano](graphs/Variação_Percentual_de_Animes_por_Ano.png)
 
-O restante dos gráficos podem ser encontrados na pasta `graphs/`.
+Os insights restante dos gráficos podem ser encontrados nos notebooks e na pasta `graphs/`.
