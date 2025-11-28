@@ -58,10 +58,11 @@ O dataset de animes possui as seguintes colunas:<br>
 * **background**: Informações adicionais ou contexto do anime.
 
 ## Alguns Gráficos
-![Top 10 Estúdios com Mais Animes](graphs/Top_10_Estúdios_com_mais_Animes.png)
-![Distribuição da Quantidade de Animes Produzidas por Estúdio](graphs/Distribuição_da_Quantidade_de_Animes_Produzidas_por_Estúdio.png)
-![Percentis de Notas](graphs/Percentis_de_Notas.png)
-![Distribuição das Notas por Faixa_de_votantes](graphs/Distribuição_detalhada_das_notas_por_faixa_de_votantes.png)
-![Variação Percentual de Animes por Ano](graphs/Variação_Percentual_de_Animes_por_Ano.png)
+![Distribuição de Notas](graphs/analise_exploratoria/Distribuição_de_Notas.png)
+![Distribuição Nota x Quantidade de Pessoas que deram Nota](graphs/analise_exploratoria/Distribuição_de_Score_por_Scored_by.png)
+![Heatmap de Correlação - Score, Scored_by, Members](graphs/analise_exploratoria/Heatmap_de_Correlação_-_Score,_Scored_by,_Members.png)
+![Frequência_de_Gêneros_que_mais_aparecem_juntos](graphs/insights/Frequência_de_Gêneros_que_mais_aparecem_juntos.png)
+![Temas_que_Mais_Aparecem_com_o_tema_Escolar](graphs/insights/Temas_que_Mais_Aparecem_com_o_tema_Escolar.png)
+![Quantidade_de_Animes_Isekai_por_Ano](graphs/insights/Quantidade_de_Animes_Isekai_por_Ano.png)
 
 Os insights restante dos gráficos podem ser encontrados nos notebooks e na pasta `graphs/`.
